@@ -5,7 +5,7 @@ Follow this simple step.
 
 2. Install VSCode.
 
-3. Install Anaconda3 (Install Faker).
+3. Install Anaconda3 (prompt to Install Faker).
 
 4. Install Faker in Desktop by running this command <pip3 install Faker> on Powershell.
 
