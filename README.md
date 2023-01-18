@@ -1,13 +1,14 @@
 Fake Data Generator
+Follow this simple step.
 
-Install Python.
+1. Install Python.
 
-Install VSCode.
+2. Install VSCode.
 
-Install Anaconda3 (Install Faker).
+3. Install Anaconda3 (Install Faker).
 
-Install Faker in Desktop by running this command <pip3 install Faker> on Powershell.
+4. Install Faker in Desktop by running this command <pip3 install Faker> on Powershell.
 
-Create a Folder and simply create a Python File inside the Folder using VSCode.
+5. Create a Folder and simply create a Python File inside the Folder using VSCode.
 
-Run the code.
+6. Run the code.
